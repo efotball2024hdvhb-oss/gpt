@@ -1,0 +1,21 @@
+{
+  "name": "mindgpt-android-ui",
+  "private": true,
+  "version": "5.5.3",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "liquid-gooey": "0.2.1",
+    "@fontsource/vazirmatn": "latest",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.3.4",
+    "vite": "5.4.14"
+  }
+}
